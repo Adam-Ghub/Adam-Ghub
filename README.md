@@ -1,5 +1,5 @@
 <h1 align="left">About me </h1>
- <p>I'm 17 year old frontend developer from Czech Republic <img width="20" src="https://cdn.britannica.com/86/7886-004-323985BD/Flag-Czech-Republic.jpg"></p> 
+ <p>I'm 18 year old frontend developer from Czech Republic <img width="20" src="https://cdn.britannica.com/86/7886-004-323985BD/Flag-Czech-Republic.jpg"></p> 
  <p>I'm stuying an information technology high school <img width="20" src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png"</p>
   <p>Among other things, my hobbies include running, cycling and hiking</p>
 
