@@ -1,6 +1,6 @@
 <h1 align="left">About me </h1>
  <p>I'm 19 year old web developer from Czech Republic <img width="20" src="https://cdn.britannica.com/86/7886-004-323985BD/Flag-Czech-Republic.jpg"></p> 
- <p>I focus on building fast and clean websites using React and Tailwind <img width="20" src="src="https://github.com/user-attachments/assets/9ad8c5ba-c270-4ec2-a754-d121dfd7e8aa" /></p>
+ <p>I focus on building fast and clean websites using React and Tailwind <img width="20" src="src="https://cdn0.iconfinder.com/data/icons/devices-42/512/Macbook-512.png" /></p>
 
 
 
